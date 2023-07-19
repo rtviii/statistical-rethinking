@@ -1,0 +1,4 @@
+**venv
+rethinking_venv/**
+**/rethinking_venv/**
+.vscode
